@@ -21,7 +21,7 @@ const posts = [
       date: "2025-04-16",
       excerpt: "Stiamo lavorando per voi. Stay tuned!",
       content: "Chi va piano va sano e va lontano!",
-      image: "https://kinsta.com/it/wp-content/uploads/sites/2/2023/04/react-must-be-in-scope-when-using-jsx.jpg"
+      image: "https://c8.alamy.com/compit/2b7bb9w/il-3d-funziona-in-corso-e-in-fase-di-costruzione-2b7bb9w.jpg"
     },
     {
         id: 4,
