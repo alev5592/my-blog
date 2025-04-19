@@ -36,7 +36,7 @@ function About() {
               <h5>Seguimi sui social:</h5>
               <Button
                 as="a"
-                href="https://www.linkedin.com/in/tuo-linkedin"
+                href="https://www.linkedin.com/in/alessandro-vaccaro-56897b212/"
                 target="_blank"
                 variant="outline-primary"
                 className="me-2"
@@ -46,7 +46,7 @@ function About() {
               </Button>
               <Button
                 as="a"
-                href="https://github.com/tuo-github"
+                href="https://github.com/alev5592/my-blog"
                 target="_blank"
                 variant="outline-dark"
                 className="me-2"
@@ -54,23 +54,14 @@ function About() {
                 <FaGithub className="me-2" />
                 GitHub
               </Button>
-              <Button
-                as="a"
-                href="https://twitter.com/tuo-twitter"
-                target="_blank"
-                variant="outline-info"
-              >
-                <FaTwitter className="me-2" />
-                Twitter
-              </Button>
             </div>
 
             {/* Pulsante per il CV */}
             <div className="mt-4">
               <Button
                 as="a"
-                href="/path/to/your-cv.pdf"
-                download="Nome_Cognome_CV.pdf"
+                href="/Alessandro_Vaccaro_CV.pdf"
+                download="Alessandro_Vaccaro_CV.pdf"
                 variant="outline-secondary"
               >
                 Scarica il mio CV
