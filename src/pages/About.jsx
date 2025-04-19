@@ -18,7 +18,7 @@ function About() {
           <Card className="p-4 shadow-sm">
             <h2 className="mb-3">Ciao! 👋</h2>
             <p>
-              Mi chiamo <strong>Nome Cognome</strong> e sono uno sviluppatore web con passione per React,
+              Mi chiamo <strong>Alessandro Vaccaro</strong> e sono uno sviluppatore web con passione per React,
               JavaScript e tutto ciò che riguarda il front-end.
             </p>
             <p>
