@@ -30,6 +30,14 @@ const posts = [
         excerpt: "Una piccola anticipazione su ciò che troverai nei prossimi post. Stay tuned!",
         content: "Sto preparando contenuti su testing, deployment, UI design e tanto altro!",
         image: "https://kinsta.com/it/wp-content/uploads/sites/2/2023/04/react-must-be-in-scope-when-using-jsx.jpg"
+      },
+      {
+        id: 5,
+        title: "Festa della Liberazione",
+        date: "2025-04-25",
+        excerpt: "Oggi celebriamo il 25 aprile, giorno in cui ricordiamo la Liberazione dell'Italia dal nazifascismo. Una data che parla di coraggio, di resistenza e di speranza, conquistata da donne e uomini che hanno lottato per la libertà. Un'eredità preziosa che continua a ispirarci ogni giorno.",
+        content: "Il 25 aprile è una data che parla alla coscienza di tutti noi. È il giorno in cui celebriamo la Liberazione dell'Italia dal nazifascismo, avvenuta nel 1945, grazie al coraggio di uomini e donne che hanno scelto di resistere all’oppressione, spesso a rischio della propria vita. Non è solo un momento di memoria storica, ma anche un richiamo attuale ai valori di libertà, democrazia e giustizia. La Resistenza ci insegna che ogni conquista di diritti nasce dalla responsabilità e dall’impegno collettivo. In un tempo in cui le sfide cambiano volto, ricordare il 25 aprile significa rinnovare il nostro impegno a difendere quei principi fondamentali che rendono una società veramente libera. La libertà non è mai scontata: va coltivata ogni giorno, con gesti, parole e scelte consapevoli.",
+        image: "https://www.discoveraquileia.com/wp-content/uploads/2023/01/festa-della-liberazione-scaled-e1675266312958.jpg"
       }
   ]
   

@@ -49,7 +49,6 @@ function Home() {
             creazione di interfacce moderne e performanti. Questo blog è il mio
             spazio per condividere progetti, idee e conoscenze con chi condivide
             il mio stesso entusiasmo per il web.
-            
           </p>
           <Button as={Link} to="/about" variant="outline-primary">
             Scopri di più
@@ -156,7 +155,7 @@ function Home() {
       {/* Lista dei post filtrati */}
       <Row>
         {filteredPosts.length > 0 ? (
-          filteredPosts.map((post) => (
+          [...filteredPosts].reverse().map((post) => (
             <Col md={4} key={post.id} className="mb-4">
               <Card className="h-100 shadow-sm">
                 <Card.Img
